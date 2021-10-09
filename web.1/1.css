@@ -1,0 +1,23 @@
+a {
+    text-decoration: none;
+    color: black;
+}
+body {
+    margin: 0%;
+}
+h1 {
+    text-align: center;
+    border-bottom: gray solid 2px;
+    margin: 0%;
+}
+ol {
+    border-right: gray solid  2px;
+    width: 150px;
+    margin: 0%;
+    padding-top: 30px;
+    
+}
+.apple {
+    display: grid;
+    grid-template-columns: 200px 1fr;
+}
